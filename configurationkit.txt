@@ -1,5 +1,0 @@
-git
-maven
-jenkins
-
-rtrtt
