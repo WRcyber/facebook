@@ -1,1 +1,2 @@
 This file contains all the config files of the system server.
+dynamo
